@@ -1,6 +1,9 @@
 # Table of contents
 
-* [Page 1](README.md)
+## CNC3018
+
+* [Page 4](README.md)
+* [Фрезы](cnc3018/frezy.md)
 
 ## Fusion 360
 
