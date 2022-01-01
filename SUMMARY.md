@@ -4,6 +4,7 @@
 
 * [Page 4](README.md)
 * [Фрезы](cnc3018/frezy.md)
+* [Доработки](cnc3018/dorabotki.md)
 
 ## Fusion 360
 
