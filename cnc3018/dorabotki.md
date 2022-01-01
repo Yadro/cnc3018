@@ -2,7 +2,7 @@
 
 ## Столик для резки
 
-![](<../.gitbook/assets/cnc3018-table (1).png>)
+![](../.gitbook/assets/cnc3018-table.png)
 
 Fusion 360 модель для сверловки столика:
 
